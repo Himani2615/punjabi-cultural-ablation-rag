@@ -1,0 +1,25 @@
+﻿id,text,script,primary_label,humor,sarcasm,dark_humor,offensive,culture_dependency,culture_tag
+p001,"ਓਏ, ਤੂੰ ਤਾਂ ਅੱਜ ਬੜਾ ਹੀਰੋ ਬਣਿਆ ਫਿਰਦਾ ਏਂ।",Gurmukhi,sarcasm,1,1,0,0,1,Punjabi_banter
+p002,"ਵਾਹ ਜੀ ਵਾਹ, ਕਿੰਨਾ ਵਧੀਆ ਕੰਮ ਕੀਤਾ—ਬਸ ਹੁਣ ਇਸਨੂੰ ਦੁਬਾਰਾ ਨਾ ਕਰੀਂ।",Gurmukhi,sarcasm,1,1,0,0,1,Punjabi_banter
+p003,ਮੈਂ ਪੰਜ ਮਿੰਟ ਲੇਟ ਹੋਇਆ ਤੇ ਘਰ ਵਾਲਿਆਂ ਨੇ ਐਸਾ ਸਵਾਗਤ ਕੀਤਾ ਜਿਵੇਂ ਮੈਂ ਵਿਦੇਸ਼ੋਂ ਵਾਪਸ ਆਇਆ ਹੋਵਾਂ।,Gurmukhi,regular_humor,1,0,0,0,0,none
+p004,ਅੱਜ ਤਾਂ ਚਾਹ ਨੇ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਬਚਾਈ ਆ।,Gurmukhi,regular_humor,1,0,0,0,0,none
+p005,ਪੜ੍ਹਾਈ ਦੀ ਟੈਂਸ਼ਨ ਇੰਨੀ ਆ ਕਿ ਕਿਤਾਬ ਖੋਲ੍ਹਦੇ ਹੀ ਨੀਂਦ ਆ ਜਾਂਦੀ ਆ।,Gurmukhi,regular_humor,1,0,0,0,0,none
+p006,"ਜੁਗਤਾਂ ਲਾਉਂਦੇ ਲਾਉਂਦੇ ਕੰਮ ਵੀ ਕਰ ਲਿਆ ਕਰ, ਬੱਲਿਆ।",Gurmukhi,regular_humor,1,0,0,0,1,Punjabi_jugat
+p007,"ਉਹ ਕਹਿੰਦਾ ਸੀ ਮੈਂ ਕਦੇ ਨਹੀਂ ਹਾਰਦਾ, ਫਿਰ ਉਸਨੇ Wi-Fi ਦਾ ਪਾਸਵਰਡ ਵੀ ਹਾਰ ਮੰਨ ਕੇ ਪੁੱਛ ਲਿਆ।",Gurmukhi+English,sarcasm,1,1,0,0,0,none
+p008,"Sohneya, tera confidence taan full aa, bas result thoda missing aa.",Romanized,sarcasm,1,1,0,0,1,Punjabi_banter
+p009,"ਮੁੰਡਾ ਕਹਿੰਦਾ ਮੈਂ ਬਹੁਤ disciplined ਆਂ, ਪਰ alarm ਨਾਲ ਰੋਜ਼ ਜੰਗ ਕਰਦਾ ਏ।",Gurmukhi,sarcasm,1,1,0,0,0,none
+p010,ਜਦੋਂ assignment ਦੀ deadline ਕੱਲ੍ਹ ਹੋਵੇ ਤੇ ਅੱਜ ਹੀ ਯਾਦ ਆਵੇ—ਇਹੀ ਅਸਲੀ ਸਿਆਪਾ ਆ।,Gurmukhi,dark_humor,1,0,1,0,1,Punjabi_syaapa
+p011,"ਜ਼ਿੰਦਗੀ ਨੇ ਕਿਹਾ surprise, ਤੇ ਮੈਂ ਕਿਹਾ ਹੋਰ ਕੀ ਬਚਿਆ ਏ ਹੁਣ।",Gurmukhi,dark_humor,1,0,1,0,0,none
+p012,"ਮੇਰੇ marks ਵੇਖ ਕੇ calculator ਨੇ ਵੀ ਕਿਹਾ, ਮੈਨੂੰ ਇਸ calculation ਤੋਂ ਬਾਹਰ ਰੱਖੋ।",Gurmukhi,regular_humor,1,0,0,0,0,none
+p013,ਪੇਪਰ ਇੰਨਾ ਔਖਾ ਸੀ ਕਿ ਮੇਰੀ ਆਤਮਾ ਨੇ ਵੀ supplementary ਮੰਗ ਲਈ।,Gurmukhi+English,dark_humor,1,0,1,0,0,none
+p014,ਉਹਦੀ insult ਵੀ ਐਨੀ ਪਿਆਰ ਨਾਲ ਹੁੰਦੀ ਆ ਕਿ ਬੰਦਾ ਧੰਨਵਾਦ ਕਰ ਦੇਵੇ।,Gurmukhi,sarcasm,1,1,0,1,1,Punjabi_banter
+p015,"ਤੂੰ genius ਤਾਂ ਬੜਾ ਏਂ, ਬਸ ਦੁਨੀਆ ਨੂੰ ਅਜੇ ਪਤਾ ਨਹੀਂ ਲੱਗਿਆ।",Gurmukhi,offensive_humor,1,1,0,1,0,none
+p016,"ਇਹ joke ਨਹੀਂ, ਸਿੱਧੀ ਬੇਇੱਜ਼ਤੀ ਆ।",Gurmukhi,offensive_humor,0,0,0,1,0,none
+p017,"Oye, tu taan full professor niklya, bas degree ghar reh gayi.",Romanized,sarcasm,1,1,0,1,1,Punjabi_banter
+p018,ਵਿਆਹ ਤੋਂ ਬਾਅਦ ਆਜ਼ਾਦੀ ਬਾਰੇ joke ਸੁਣਾਉਣਾ ਵੀ ਥੋੜ੍ਹਾ risky sport ਆ।,Gurmukhi+English,dark_humor,1,0,1,0,1,Indian_social
+p019,"ਲੋ ਜੀ, ਅੱਜ ਫਿਰ ਘਰ ਵਿੱਚ ਸਿਆਪਾ ਪੈ ਗਿਆ।",Gurmukhi,regular_humor,1,0,0,0,1,Punjabi_syaapa
+p020,ਮੈਨੂੰ ਵੇਖ ਕੇ ਮੇਰੀ productivity ਨੇ ਵੀ resign ਕਰ ਦਿੱਤਾ।,Gurmukhi+English,regular_humor,1,0,0,0,0,none
+p021,ਉਹ ਬੰਦਾ ਇੰਨਾ helpful ਆ ਕਿ ਮੁਸੀਬਤ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਦੱਸ ਦਿੰਦਾ ਕਿ ਤੂੰ ਫਸਣ ਵਾਲਾ ਏਂ।,Gurmukhi,sarcasm,1,1,0,0,0,none
+p022,"ਕੰਮ ਤਾਂ ਕੁਝ ਕੀਤਾ ਨਹੀਂ, ਪਰ attitude ਐਵੇਂ ਜਿਵੇਂ ਪਿੰਡ ਦਾ ਸਰਪੰਚ ਹੋਵੇ।",Gurmukhi,offensive_humor,1,1,0,1,1,Punjabi_social
+p023,"Ajj di meeting ne meri jaan nahi layi, bas meri patience zaroor le gayi.",Romanized,dark_humor,1,0,1,0,0,none
+p024,ਤੂੰ ਤਾਂ ਬੜਾ ਸਿਆਣਾ ਏਂ—ਇਸੇ ਕਰਕੇ ਹਰ ਵਾਰ ਉਹੀ ਗਲਤੀ ਕਰਦਾ ਏਂ।,Gurmukhi,sarcasm,1,1,0,0,0,none
