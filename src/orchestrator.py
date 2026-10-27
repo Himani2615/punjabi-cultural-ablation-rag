@@ -10,13 +10,15 @@ class PunjabiHumorOrchestrator:
         Executes the 4-part comparative cultural ablation matrix.
         Designed to empirically measure cultural context variance in NLP.
         """
-        results = {
+        """results = {
             "stream_1_no_context": self._evaluate_baseline(input_text),
             "stream_2_pan_indian": self._evaluate_with_rag(input_text, context="indian"),
             "stream_3_hyper_punjabi": self._evaluate_with_rag(input_text, context="punjabi"),
             "stream_4_western_control": self._evaluate_with_rag(input_text, context="western")
         }
-        return results
+        return results"""
+
+        return self._evaluate_baseline(input_text)
 
     def _evaluate_baseline(self, text):
         # Base LLM/Transformer inference with zero contextual aid
